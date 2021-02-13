@@ -33,7 +33,7 @@
 4. <https://www.youtube.com/watch?v=AkiJB4zvdZE>
 
 ### Apostila - Operadores Aritméticos:
-1. Leia os capítulo 4 e 5 (Operadores apenas) da sua apostila: https://www.fuctura.com.br/recife/quero-revisar-logica-de-programacao/
+1. Leia os capítulos 4 e 5 (Operadores apenas) da sua apostila: https://www.fuctura.com.br/recife/quero-revisar-logica-de-programacao/
 
 # Link de Acesso para a Atividade:
 1. Atividade teórica: <https://forms.gle/AuEmeFzk4fze9ZiC7>
