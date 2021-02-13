@@ -2,6 +2,10 @@
 
 ## Prazo: 19/02/21
 
+## Link de Acesso para a Atividade da semana:
+1. Atividade teórica: <https://forms.gle/AuEmeFzk4fze9ZiC7>
+2. Atividade prática: <https://forms.gle/GEpg8gkH7mwCmF228>
+
 ## Objetivos para esta semana:
 
 ### Aprender a declarar variáveis
@@ -36,7 +40,3 @@
 
 ### Apostila - Operadores Aritméticos:
 1. Leia os capítulos 4 e 5 (Operadores apenas) da sua apostila: https://www.fuctura.com.br/recife/quero-revisar-logica-de-programacao/
-
-# Link de Acesso para a Atividade:
-1. Atividade teórica: <https://forms.gle/AuEmeFzk4fze9ZiC7>
-2. Atividade prática: <https://forms.gle/GEpg8gkH7mwCmF228>
