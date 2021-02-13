@@ -1,4 +1,6 @@
-# Instruções das atividades para a semana 2
+# Instruções das atividades para a semana 2 
+
+## Prazo: 19/02/21
 
 ## Objetivos para esta semana:
 
