@@ -32,7 +32,7 @@
 3. <https://www.youtube.com/watch?v=EMOcWuS0u3s>
 4. <https://www.youtube.com/watch?v=AkiJB4zvdZE>
 
-### Apostila: Operadores Aritméticos:
+### Apostila - Operadores Aritméticos:
 1. Leia os capítulo 4 e 5 (Operadores apenas) da sua apostila: https://www.fuctura.com.br/recife/quero-revisar-logica-de-programacao/
 
 # Link de Acesso para a Atividade:
