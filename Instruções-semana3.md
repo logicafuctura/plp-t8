@@ -1,4 +1,4 @@
-# Instruções das atividades para a semana 3 
+# Instruções das Atividades para a Semana 3 
 
 ## Prazo: 26/02/21
 
@@ -8,7 +8,7 @@
 
 ## Objetivos para esta semana:
 
-#### Utilizar corretamente os operadores relacionais
+### Utilizar corretamente os operadores relacionais
 1. Utilizar corretamente o operador relacional de igualdade (==)
 2. Utilizar corretamente o operador relacional de diferente de (!=)
 3. Utilizar corretamente o operador relacional de maior que (>)
@@ -19,9 +19,14 @@
 ### Aprender a utilizar os operadores lógicos
 1. Utilizar corretamente os operadores **E** e **OU**
 
-#### Criar corretamente as expressões lógicas
+### Criar corretamente as expressões lógicas
 1. Utilizar corretamente a tabela verdade
 2. Utilizar corretamente o parêntesis para alterar a ordem de avaliação das expressões
+
+### Utilizar corretamente os comando de tomada de decisão
+1. Utilizar o se
+2. Utilizar o se-senao
+3. Utilizar o senao-se
 
 # Material de Apoio:
 
