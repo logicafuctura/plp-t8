@@ -24,9 +24,9 @@
 2. Utilizar corretamente o parêntesis para alterar a ordem de avaliação das expressões
 
 ### Utilizar corretamente os comando de tomada de decisão
-1. Utilizar o se
-2. Utilizar o se-senao
-3. Utilizar o senao-se
+1. Utilizar o **se**
+2. Utilizar o **se-senao**
+3. Utilizar o **senao-se**
 
 # Material de Apoio:
 
