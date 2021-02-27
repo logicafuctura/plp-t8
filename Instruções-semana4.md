@@ -4,7 +4,7 @@
 
 ## Link de Acesso para a Atividade da semana:
 1. Atividade teórica: <https://forms.gle/xfPVYHhyKqjkvP5k7>
-2. Atividade prática: <https://forms.gle/ftn2pmGFNtDEt2hm8>
+2. Atividade prática: <https://forms.gle/Woof5SE5opFRRMuD6>
 
 ## Objetivos para esta semana:
 
