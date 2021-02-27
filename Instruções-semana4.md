@@ -1,10 +1,10 @@
 # Instruções das Atividades para a Semana 3 
 
-## Prazo: 26/02/21
+## Prazo: 06/03/21
 
 ## Link de Acesso para a Atividade da semana:
 1. Atividade teórica: <https://forms.gle/xfPVYHhyKqjkvP5k7>
-2. Atividade prática: <https://forms.gle/TMhfSncbLGeqcK767>
+2. Atividade prática: <https://forms.gle/ftn2pmGFNtDEt2hm8>
 
 ## Objetivos para esta semana:
 
@@ -23,21 +23,20 @@
 1. Utilizar corretamente a tabela verdade
 2. Utilizar corretamente o parêntesis para alterar a ordem de avaliação das expressões
 
-### Utilizar corretamente os comando de tomada de decisão
-1. Utilizar o **se**
-2. Utilizar o **se-senao**
-3. Utilizar o **senao-se**
+### Utilizar corretamente os comando de tomada de repetição
+1. Utilizar o **enquanto**
+2. Utilizar o **para**
 
 # Material de Apoio:
 
 ### Vídeos contendo estruturas de decisão no Portugol Studio:
-1. <https://youtu.be/_jWLHKTGm80>
-2. <https://youtu.be/jlOMFgNQI-o>
-3. <https://youtu.be/leUQfbwa0vI>
-4. <https://youtu.be/MiNM1-HBAmU>
-5. <https://youtu.be/vS9a2BXgWq8>
-6. <https://youtu.be/fdTIM4exzio>
-7. <https://youtu.be/GCIlUNKjr1E>
+1. <https://youtu.be/8r_JFTwVa58>
+2. <https://youtu.be/R2GtlZIgPSU>
+3. <https://youtu.be/12BHuW82Rbc>
+4. <https://youtu.be/OJ_WHFGc0fg>
+5. <https://youtu.be/0v7SFyHrZMk>
+6. <https://youtu.be/JKlO6fLfcjs>
+7. <https://youtu.be/-gVBxDGdLww>
 
 ### Apostila - Operadores Aritméticos:
-1. Leia os capítulos 5 (Operadores relacionais) da sua apostila: https://www.fuctura.com.br/recife/quero-revisar-logica-de-programacao/
+1. Leia os capítulos 5 (Estrutura de repetição) da sua apostila: https://www.fuctura.com.br/recife/quero-revisar-logica-de-programacao/
