@@ -21,4 +21,4 @@
 # Material de Apoio:
 
 ### Apostila - Operadores Aritméticos:
-1. Leia os capítulos 5 (Estrutura de repetição) da sua apostila: https://www.fuctura.com.br/recife/quero-revisar-logica-de-programacao/
+1. Leia os capítulos 5 (Vetores) da sua apostila: https://www.fuctura.com.br/recife/quero-revisar-logica-de-programacao/
